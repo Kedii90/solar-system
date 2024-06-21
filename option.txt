@@ -1,0 +1,37 @@
+(x-a)^2+(y-b)^2 = r^2
+Mercury(643,470)left  center_circle(735,470) (a,b) r 92
+    (735,378)up 
+    (827,470)right
+    (735,562)down
+Venus(611,470)left  center_circle(735,470)  r 124
+    (735,346)up
+    (859,470)right
+    (735,594)down
+Earth(571,470)left  center_circle(735,470) r 164
+  (735,306)up
+  (899,470)right
+  (735,634)down
+Mars(536,470)left  center_circle(735,470) r 199 
+  (735,271)up
+  (934,470)right
+  (735,669)down
+Saturn(496,470)left  center_circle(735,470) r 239
+  (735,231)上
+  (974,470)right
+  (735,709)down
+Venus(441,470)left  center_circle(735,470) r 294
+  (735,176)up
+  (1029,470)right
+  (735,764)down
+Jupiter(392,470)left  center_circle(735,470) r 343
+  (735,127)up
+  (1078,470)right
+  (735,813)down
+Neptune(351,470)left  center_circle(735,470) r 384
+  (735,86)up
+  (1119,470)right
+  (735,854)down
+swallow
+size(170,170) pos[636,378]  735 - width/2 470 - width /2 + the radius of planets
+(220,220) [595,345]   
+(300,300) [555,305]
